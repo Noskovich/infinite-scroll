@@ -42,7 +42,7 @@ function displayPhotos() {
 
 // Unsplash API
 const count = 30;
-const apiKey = "FvlFi6kghGuWsa8enHAL8dlDtAWIsTKqKtIgwVCLyME";
+const apiKey = "Your API";
 const apiURL = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 // Check the loaded of all pictures
